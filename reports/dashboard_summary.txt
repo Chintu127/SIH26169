@@ -1,0 +1,6 @@
+FSOC PAT Dashboard Summary
+Scenario: clean
+Noise: 0.15
+Vibration: 0.20
+Turbulence: 0.10
+Camera Motion: 0.12
